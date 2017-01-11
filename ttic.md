@@ -16,10 +16,11 @@
 
 ## Where?
 
+- I had been studying at TTIC from September to December.
 - TTIC
   - in Chicago, Illinoi state, the US
 - O'hare airport
-  - You can take shuttles and buses at the airport to go to TTIC
+  - You can take shuttles or buses at the airport to go to TTIC
 - Michigan lake
 - Downtown
 - Don't go to the south side of TTIC at night. It's unsafe.
@@ -52,16 +53,18 @@
 
 - The cloud gate
   - Some people call it "Bean" because of its shape.
-  - It was much bigger than I think.
+  - It was much bigger than I thought.
 - You can see some tranditional-style buildings in the downtown.
   - That's different from Nagoya.
 
 
 ## School
 
-- You will be allocated a cubicle.
+- In TTIC, you will be allocated a cubicle.
   - Where you do some work.
   - Homework and research
+- Most of them are used by students.
+- Professors have their own rooms.
 
 - Many whiteboards
   - Good environment for research
@@ -72,16 +75,17 @@
 
 - I took a class of Machine learning.
 - The style of classes are almost the same as in Japan.
-- There were some competitions as part of homework.
+- There were some programming competitions as part of homework.
 - Kaggle's web page used for the machine learning class
-  - You submit your programs as your solutions to the competition system.
 - Kaggle
   - The service to hold competitions mainly for machine learning or data science
+  - You submit your programs as your solutions to this competition system.
   - The competition of the last homework
   - You can see the ranking.
   - I could win the first prize.
-- You can also take classes of University of Chicago if you want.
-  - There are also some interesting classes.
+- TTIC has some connections with University of Chicago.
+  - You can also take classes of University of Chicago if you want.
+  - There are also some interesting classes on computer science.
 
 
 ## Research
@@ -94,11 +98,19 @@
     answer should be in the blank.
 
 - Model with attention mechanism
+  - Attention mechanism lets deep learning models focus on something important.
 
 
 ## Demo
 
 [Demo](https://asciinema.org/a/93469)
+
+- The last paper I mentioned is about a deep learning model.
+- Training deep learning models takes much computational cost.
+- Two clusters which consists of many powerful computers.
+- You can use it like one computer to train them.
+  - That should boost your research cycle.
+- It is a very good research environment.
 
 
 ## Conclusion
